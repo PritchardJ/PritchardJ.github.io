@@ -83,7 +83,7 @@ html {
 
     img {
         display: block;
-        width: fit-content;
+        width: 24%;
         vertical-align: middle;
         margin: auto;
         float: center;
